@@ -12,7 +12,7 @@ git config --global alias.conflict 'diff --name-only --diff-filter=U'
 #si estoy en windows
 git config --global core.autocrlf true
 #si estoy en linux
-git config --global core.autocrlf input
+#git config --global core.autocrlf input
 # git config --global --get-regexp alias
 git config --global --unset alias.lodg
 git config --global --list
